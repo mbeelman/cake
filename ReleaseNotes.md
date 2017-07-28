@@ -1,3 +1,42 @@
+### New on 0.21.1 (Released 2017/07/15)
+
+* 1685 Add DotNetCoreTool alias overload that takes DotNetCoreToolSettings parameter
+* 1686 AssemblyLoadContext root path is relative
+
+### New on 0.21.0 (Released 2017/07/14)
+
+* 1533 Update DotNetCore Aliases to match tooling 1.0
+* 1554 Updated DotNetCoreTest inline with Tooling v1.0
+* 1553 Updated DotNetCorePack inline with Tooling v1.0
+* 1552 Updated DotNetCorePublish inline with Tooling v1.0
+* 1551 Updated DotNetCoreExecute inline with Tooling v1.0
+* 1550 Updated DotNetCoreBuild inline with Tooling v1.0
+* 1534 Updated DotNetCoreRestore inline with Tooling v1.0
+* 1599 Added support for dotnet msbuild inline with Tooling v1.0
+* 1591 Add support for choco download
+* 1581 Added support for dotnet nuget push inline with Tooling v1.0
+* 1577 .NET Core CLI tools - Surfacing additional commands with a new alias: DotNetCoreTool
+* 1565 Added support for dotnet nuget delete inline with Tooling v1.0
+* 1555 Added support for dotnet clean inline with Tooling v1.0
+* 1549 Common changes for DotNetCore Alias
+* 1679 Cake on dotnet core doesn't load reference dll correctly if referenced from a subdirectory
+* 1673 The xunit.runners package was deprecated
+* 1654 Broken Documentation link for ReportUnit
+
+### New on 0.20.0 (Released 2017/06/12)
+
+* 1539 Update solution to Visual Studio 2017
+* 1640 Fetch version from solutioninfo & remove newtonsoft dependency
+* 1638 Unix Integration tests fail post new SDK
+* 1635 Non Nuspec assemblies not packaged after VS2017 upgrade
+* 1603 Push Cake.NuGet to MyGet/NuGet
+* 1538 Update DotNetInstallerUri to https://dot.net/v1/dotnet-install.ps1
+* 1620 Improve documentation for RedirectStandardError and RedirectStandardOutput
+* 1613 Added documentation link to NUnit3Settings.Where
+* 1605 Fix the contribution-guidelines link again
+* 1604 Fix the contribution guidelines link in the README
+* 1595 Add Alistair and Martin names to all required places
+
 ### New on 0.19.5 (Released 2017/05/04)
 
 * 1587 Arguments missing for Octopus Deploy tool

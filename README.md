@@ -131,14 +131,14 @@ Make sure you've read the [contribution guidelines](http://cakebuild.net/docs/co
 
 ## License
 
-Copyright © .NET Foundation, Patrik Svensson, Mattias Karlsson, Gary Ewan Park, Alistair Chapman and contributors.
+Copyright © .NET Foundation, Patrik Svensson, Mattias Karlsson, Gary Ewan Park, Alistair Chapman, Martin Björkström and contributors.
 
 Cake is provided as-is under the MIT license. For more information see [LICENSE](https://github.com/cake-build/cake/blob/develop/LICENSE).
 
 * For Roslyn, see https://github.com/dotnet/roslyn/blob/master/License.txt
 * For Mono.CSharp, see https://github.com/mono/mono/blob/master/mcs/LICENSE
 * For Autofac, see https://github.com/autofac/Autofac/blob/master/LICENSE
-* For NuGet.Core, see https://nuget.codeplex.com/license
+* For NuGet.Core, see https://github.com/NuGet/Home/blob/dev/LICENSE.txt
 
 ## Thanks
 
